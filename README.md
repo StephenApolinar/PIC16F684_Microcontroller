@@ -1,6 +1,6 @@
 # PIC16F684_Microcontroller
 
-## Project Goals
+## Project Outline
 
  The scope of this project is learning how to setup embedded systems.  This entails hardware selection, setup, 
  circuit configuration, and coding of a microcontroller.  Microchip's 8 bit PIC16F684A is the standalone microcontroller 
@@ -16,4 +16,5 @@
 ### In-Circuit Programmer/Debugger
  The PICkit 3 In-Circuit Programmer/Debugger is used to upload the machine code to PIC microcontrollers.  Microchip provides a 
  product info page at the following link: [PICkit3 product info page](http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=PG164130) .
+ PICkit 3 image below: ![](Images/PICkit3.jpg)
  
