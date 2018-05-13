@@ -1,0 +1,14 @@
+
+# 1 "TURNON.ASM"
+; File TURNON.ASM
+; Assembly code for PIC16F84 microcontroller
+
+; Turns on an LED connected to B0
+; Uses crystal oscillator, about 3.63 MHz
+
+; CPU configuration
+; (It's a 16F84, crystal oscillator, 
+; watchdog timer off, power-up timer on.)
+
+; PIC16F84A Configuration Bit Settings
+; Assembly source line config statements
