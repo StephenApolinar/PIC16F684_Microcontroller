@@ -11,7 +11,7 @@
 ### Code
 
  The microcontroller will be coded in Assembly, and C. Some exercises will be coded in C while containing sections of 
- assembly for performance purposes.
+ Assembly for performance purposes.
  
 ### In-Circuit Programmer/Debugger
  The PICkit 3 In-Circuit Programmer/Debugger is used to upload the machine code to PIC microcontrollers.  Microchip provides a 
