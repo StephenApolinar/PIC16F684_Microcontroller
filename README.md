@@ -24,5 +24,5 @@
  [PIC16F84A data sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/35007C.pdf) 
  
  PIC16F84A Pin Diagram:
- <img src="Images/PIC16F84A_PinDiagram.PNG">
+ <img src="Images/PIC16F84A_PinDiagram.PNG" width="400">
  
