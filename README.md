@@ -25,5 +25,5 @@
  
  PIC16F84A Pin Diagram:
  
- <img src="Images/PIC16F84A_PinDiagram.PNG" width="400">
+ <img src="Images/PIC16F84A_PinDiagram.PNG" width="500">
  
