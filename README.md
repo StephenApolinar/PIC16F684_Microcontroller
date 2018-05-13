@@ -15,5 +15,5 @@
  
 ### In-Circuit Programmer/Debugger
  The PICkit 3 In-Circuit Programmer/Debugger is used to upload the machine code to PIC microcontrollers.  The PICkit3 
- product info page can be found at the following link (http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=PG164130) .
+ product info page can be found at the following link [PICkit3 product info] (http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=PG164130) .
  
