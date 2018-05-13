@@ -20,7 +20,9 @@
  
 ### Microchip PIC16F84A
  [PIC16F84A product info page](http://www.microchip.com/wwwproducts/en/pic16f84a) 
+ 
  [PIC16F84A data sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/35007C.pdf) 
+ 
  PIC16F84A Pin Diagram:
  
  
